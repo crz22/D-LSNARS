@@ -3,8 +3,10 @@
 singel_neuron_reconstruction
     ├── CMakeLists.txt
     ├── src
+    
       ├── cpp
       ├── python
+      
         ├── setup.yaml
 
 This example demonstrates how to compile and run D-LSNAR for automated single-neuron reconstruction.
