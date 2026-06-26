@@ -1,6 +1,7 @@
 # D-LSNARS
 
-singel_neuron_reconstruction
+    singel_neuron_reconstruction/
+    
     ├── CMakeLists.txt
     ├── src
     
